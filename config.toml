@@ -16,6 +16,7 @@ paginatePath = "blog"
   logo = "/images/logo.png"
   description ="(aún) no está prohibido pensar"
   #mailchimp = "you can provide a mailchimp-link here"
+  favicon = "/images/favicon.png"
 
 [params.author]
   name = "John Doe"
