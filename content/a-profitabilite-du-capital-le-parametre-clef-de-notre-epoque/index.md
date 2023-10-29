@@ -17,7 +17,7 @@ source_link: https://brunobertez.com/2019/09/24/la-profitabilite-du-capital-le-p
 
 Este gráfico es interesante:
 
-<img src="https://pbs.twimg.com/media/EFE7YtnXsAk0-zC?format=png" alt="drawing" width="800" alt="Bajada de beneficios contra capital"/>
+![](https://pbs.twimg.com/media/EFE7YtnXsAk0-zC?format=png&name=small)
 
 Resalta lo que considero el fenómeno definitorio de nuestro tiempo: la tendencia a la baja de la profitabilidad del capital.
 
