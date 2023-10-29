@@ -19,14 +19,14 @@
 <link href="https://fonts.googleapis.com/css2?family=Alumni+Sans:wght@100;200;300;400;500;600;700;900&family=Jost&family=Roboto+Mono:wght@100&family=Roboto:wght@300&family=Urbanist:wght@300;600&display=swap" rel="stylesheet">
 
 	{{ $medium := resources.Get "/css/medium.css" | resources.Fingerprint }}
-	<link rel="stylesheet" href="{{ $medium.RelPermalink | absURL }}" integrity="{{ $medium.Data.Integrity }}">
+	<link rel="stylesheet" href="{{ $medium.RelPermalink | absURL }}">
 
 	{{ $additional := resources.Get "/css/additional.css" | resources.Fingerprint }}
-	<link rel="stylesheet" href="{{ $additional.RelPermalink | absURL }}" integrity="{{ $additional.Data.Integrity }}">
+	<link rel="stylesheet" href="{{ $additional.RelPermalink | absURL }}">
 
 	<!-- Custom css -->
 	{{ range .Site.Params.customCSS -}}
 	{{ $style := resources.Get . }}
-	<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous" media="screen">
+	<link rel="stylesheet" href="{{ $style.RelPermalink }}" media="screen">
 	{{- end }}
 </head>
