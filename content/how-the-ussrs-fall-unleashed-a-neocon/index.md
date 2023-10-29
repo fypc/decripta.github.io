@@ -180,7 +180,7 @@ Existe la sensación de que, tras dos décadas de violentos intentos de Estados 
 Francis Fukuyama, uno de los primeros y más acérrimos defensores del movimiento neoconservador, se retractó más tarde de sus creencias al darse cuenta de las consecuencias del monumental fracaso de Estados Unidos y de los tipos de desastres que engendró en todo el mundo. Fukuyama, que contribuyó decisivamente a la "Doctrina Reagan" en los años 80, que se centró en las intervenciones en todo el mundo y en armar a los insurgentes para combatir a la URSS en Afganistán, fue más tarde uno de los signatarios fundadores del Proyecto para el Nuevo Siglo Americano, así como uno de los principales miembros de la corporación RAND. Neoconservador empedernido y rabioso, llegó a escribir el absurdamente exultante libro "El fin de la historia", en el que declaraba sin ironía que la caída de la URSS significaba que toda la historia había llegado a un final ideológico, a partir del cual el sistema "democrático liberal" occidental marcaría el comienzo de una edad de oro como forma definitiva de gobierno para la humanidad.
 
 
-![](https://s3.amazonaws.com/mhka_ensembles_production/assets/public/000/060/931/large/VVG0_32.jpg?1598431464)
+![](end-of-history.jpg)
 
 A mediados de la década de 2000, sin embargo, la perspectiva de Fukuyama estaba cuajando. Ya no respondía a las llamadas de su amigo Wolfowitz, y escribió un artículo en el NYTimes en el que comparaba el neoconservadurismo con el leninismo:
 
