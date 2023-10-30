@@ -1,7 +1,7 @@
 ---
 type: blog
 category: Editorial
-title: "El mercado de la verdad existe, pero es reducido"
+title: "Test"
 date: 2023-09-25
 publishdate: 2023-09-25
 tags: ["bruno bertez"]
@@ -12,6 +12,7 @@ traduction: automatico mejorado
 source_language: francés
 source_site: brunobertez.com
 source_link: https://brunobertez.com/2023/09/25/editorial-le-marche-de-la-verite-existe-mais-il-est-etroit
+draft: true
 ---
 
 Hace poco os mostré una entrevista con Tucker Carlson que, tras dejar Fox News, ahora se dirige a una audiencia mundial gracias a Elon Musk.
@@ -42,7 +43,7 @@ Hace tiempo que sostengo que quienes creen que la verdad se impone por sí misma
 
 En este sentido, Lenin tenía razón. La verdad no penetra por sí sola en el espesor del cráneo humano. Debe encarnarse en grupos sociales, en organizaciones, en teorías, praxis, estrategias y tácticas. De lo contrario, la verdad sale del pozo, pero lo único que tiene es un látigo ridículo.
 
-![](vertie-sort-du-puit.png)
+![Text](vertie-sort-du-puit.png "La verdad que sale del pozo con su látigo para castigar a la humanidad (1896) – Jean-Léon Gérôme")
 
 **En mi opinión, nuestra época se caracteriza por la negación; por el rechazo de la verdad, incluso cuando es evidente, como en el caso de los Gilets Jaunes (NdT: los Chalecos Amarrillos). La negación en nuestras sociedades es un colosal "no quiero saber nada de esto".**
 
