@@ -10,7 +10,9 @@ comments: false
 
 Un sombrío estudio del Banco Mundial: [Falling Long-Term Growth Prospects](https://openknowledge.worldbank.org/bitstreams/fe0880d1-ffbf-430f-bab4-d3dbdda7470e/download)
 
-Una tendencia preocupante: casi todas las fuerzas económicas que impulsaron el progreso y la prosperidad en las últimas tres décadas se están disipando.
+Una tendencia preocupante: casi todas las fuerzas económicas que impulsaron el progreso y la prosperidad en las últimas tres décadas se están disipando. En español se puede leer el [comunicado de prensa del Banco Mundial](https://www.bancomundial.org/es/news/press-release/2023/03/27/global-economy-s-speed-limit-set-to-fall-to-three-decade-low).
+
+
 
 Para poner en perspectiva con los artículos anteriores siguientes:
 
