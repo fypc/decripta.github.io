@@ -13,7 +13,7 @@
             <h4 class="card-category">{{ .Params.category }}</h4>
             <h2 class="card-title"><a class="text-dark" href="{{ .Permalink }}">{{ .Title }}</a></h2>
             {{ if isset .Params "author" }}
-            <h4 class="card-author">Autor: {{ index .Params "author" }}</h4>  
+            <h4 class="card-author">{{ index .Params "author" }}</h4>  
             {{ end }}
             <h4 class="card-text">{{ .Summary }}</h4>            
         </div>

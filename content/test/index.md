@@ -15,21 +15,18 @@ source_link: https://brunobertez.com/2023/09/25/editorial-le-marche-de-la-verite
 draft: true
 ---
 
-Hace poco os mostré una entrevista con Tucker Carlson que, tras dejar Fox News, ahora se dirige a una audiencia mundial gracias a Elon Musk.
+La traversée est éreintante. Un pied à terre sur le quai, chaque exilé avance, en file indienne, vers la tente servant de premier accueil. Ils sont une vingtaine ; une majorité d’hommes. La Croce-Rossa (Croix-Rouge italienne), mandatée par l’État pour la gestion de cet accueil, est là pour les recevoir. À proximité de la route, un car de l’association les attend déjà pour les acheminer vers le centre d’accueil de l’île, où ils seront pris en charge quelques jours avant d’être transférés vers d’autres régions d’Italie.
 
-Tucker llega ahora a decenas o incluso cientos de millones de personas, mucho más que cuando estaba en la Fox.
+#### Pris en charge par la Croix-Rouge
 
-Dadas estas circunstancias personales, es fácil entender por qué siente que la gente se cuestiona cada vez más lo que es verdad y lo que no.
 
-Tucker, quizás con razón, cree que su audiencia es la de personas que buscan la verdad.
+{{< highlight html >}}
+  Ceci est un test
+{{< /highlight >}}
 
-No voy a discutir el punto aquí, pero hasta cierto punto tiene razón: hay una demanda pública de palabras de verdad; pero no caigo en el angelismo, estoy convencido de que esta demanda es a la vez limitada y sesgada.
-
-La gente quiere oír lo que necesita y desea oír.
-
-Quieren discursos que refuercen sus opiniones, sentimientos, ira, rebeldía e indignación, y eso es lo que Tucker les proporciona.
-
-Quieren discursos que les halaguen, que les hagan sentir bien. Que este pelo está más cerca de la verdad es innegable, pero no nos engañemos.
+{{< highlight-grey >}}
+Henri Lefebvre dijo: "*el problema de la verdad es comprender por qué las mentiras tienen tanto éxito*". Y creo que Lefebvre se acerca a lo importante, a lo que está en el corazón de nuestra situación: ¡cuestionar los efectos limitados de la verdad!
+{{< /highlight-grey >}}
 
 El mercado de la verdad existe, pero es estrecho; es un poco más amplio si ofreces un tipo de verdad populista, y eso es lo que produce Tucker, una verdad populista.
 
@@ -37,13 +34,13 @@ El mercado de la verdad existe, pero es estrecho; es un poco más amplio si ofre
 
 Henri Lefebvre dijo: "*el problema de la verdad es comprender por qué las mentiras tienen tanto éxito*". Y creo que Lefebvre se acerca a lo importante, a lo que está en el corazón de nuestra situación: ¡cuestionar los efectos limitados de la verdad!
 
-Hace tiempo que sostengo que quienes creen que la verdad se impone por sí misma, que basta con hacerla circular, están creyendo en la magia.
+**Hace tiempo que sostengo** que quienes creen que la verdad se impone por sí misma, que basta con hacerla circular, están creyendo en la magia.
 
 **No, la verdad no tiene un poder mágico en nuestro cuerpo social; no produce sus efectos por sí misma.**
 
 En este sentido, Lenin tenía razón. La verdad no penetra por sí sola en el espesor del cráneo humano. Debe encarnarse en grupos sociales, en organizaciones, en teorías, praxis, estrategias y tácticas. De lo contrario, la verdad sale del pozo, pero lo único que tiene es un látigo ridículo.
 
-![Text](vertie-sort-du-puit.png "La verdad que sale del pozo con su látigo para castigar a la humanidad (1896) – Jean-Léon Gérôme")
+![Text](vertie-sort-du-puit.png "La Verdad que sale del pozo con su látigo para castigar a la humanidad (1896) – Jean-Léon Gérôme")
 
 **En mi opinión, nuestra época se caracteriza por la negación; por el rechazo de la verdad, incluso cuando es evidente, como en el caso de los Gilets Jaunes (NdT: los Chalecos Amarrillos). La negación en nuestras sociedades es un colosal "no quiero saber nada de esto".**
 
