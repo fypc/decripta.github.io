@@ -36,7 +36,7 @@ En él se evalúan tres opciones para el futuro de los palestinos de la Franja d
 
 También pide a Israel que movilice a la comunidad internacional para apoyar esta empresa. El documento, cuya autenticidad ha sido confirmada por el Ministerio, ha sido traducido íntegramente al inglés aquí, en +972.
 
-![](foto1.jpeg "\"La migración masiva de la población desde las zonas de combate es un resultado natural y obvio.\". Ministra de Inteligencia, Gila Gamliel, 3 de octubre de 2023 (Foto: Haim Goldberg / Flash 90)")
+![](foto1.jpeg "\"La migración masiva de la población desde las zonas de combate es un resultado natural y obvio\". Ministra de Inteligencia, Gila Gamliel, 3 de octubre de 2023 (Foto: Haim Goldberg / Flash 90)")
 
 La existencia de este documento no indica necesariamente que sus recomendaciones sean asumidas por el estamento de defensa israelí. 
 
@@ -74,12 +74,12 @@ Según un funcionario del Ministerio de Inteligencia, el personal del Ministerio
 El documento propone promover una campaña dirigida a los civiles palestinos de Gaza que les "motive a aceptar este plan" y les lleve a abandonar sus tierras. "Los mensajes deberían girar en torno a la pérdida de tierras, dejando claro que no hay esperanza de volver a los territorios que Israel ocupará pronto, sea esto cierto o no. 
 
 {{< highlight-red >}}
-La imagen debería ser: 'Alá ha hecho que perdáis esta tierra por culpa de los dirigentes de Hamás; no tenéis más remedio que trasladaros a otro lugar con la ayuda de vuestros hermanos musulmanes'", reza el documento.
+La imagen debería ser: "Alá ha hecho que perdáis esta tierra por culpa de los dirigentes de Hamás; no tenéis más remedio que trasladaros a otro lugar con la ayuda de vuestros hermanos musulmanes", reza el documento.
 {{< /highlight-red >}}
 
 El documento también anima al gobierno a llevar a cabo una campaña pública en el mundo occidental para promover el plan de traslado "de una manera que no incite ni difame a Israel".
 
-![](foto2.jpeg "\"Alá se aseguró de que perdieras esta tierra.\". Palestinos en Khan Yunis, 14 de octubre de 2023 (Foto: Abd Rahim Khatib / Flash 90)")
+![](foto2.jpeg "\"Alá se aseguró de que perdieras esta tierra\". Palestinos en Khan Yunis, 14 de octubre de 2023 (Foto: Abd Rahim Khatib / Flash 90)")
 
 Esto se conseguiría presentando la expulsión de la población de Gaza como una necesidad humanitaria para ganarse el apoyo internacional, argumentando que la reubicación provocaría "menos víctimas civiles de las que cabría esperar si la población permaneciera".
 
