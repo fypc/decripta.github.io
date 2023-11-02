@@ -1,7 +1,7 @@
 ---
 type: blog
 category: Exclusivo
-title: "El documento completo del Ministerio de Inteligencia: La ocupación de Gaza y la transferencia incluyen a sus residentes"
+title: "Documento del Ministerio de Inteligencia de Israel: La ocupación de Gaza y la transferencia incluyen a sus residentes"
 date: 2023-11-01
 publishdate: 2023-10-28
 tags: ["geopolítica"]
@@ -19,9 +19,18 @@ source_link: https://www.mekomit.co.il/%D7%94%D7%9E%D7%A1%D7%9E%D7%9A-%D7%94%D7%
 
 El documento de 10 páginas, fechado el 13 de octubre de 2023, lleva el logotipo del Ministerio de Inteligencia, un pequeño organismo gubernamental que elabora estudios políticos y comparte sus propuestas con las agencias de inteligencia, el ejército y otros ministerios.
 
+
+##### **Documento original:**
 {{< rawhtml >}}
-<a aria-label="Download" class="toolbar_download download" data-tooltip="Download" href="https://www.scribd.com/document/680677071/%D7%97%D7%9C%D7%95%D7%A4%D7%95%D7%AA-%D7%9C%D7%93%D7%99%D7%A8%D7%A7%D7%98%D7%99%D7%91%D7%94-%D7%9E%D7%93%D7%99%D7%A0%D7%99%D7%AA-%D7%9C%D7%90%D7%95%D7%9B%D7%9C%D7%95%D7%A1%D7%99%D7%99%D7%94-%D7%94%D7%90%D7%96%D7%A8%D7%97%D7%99%D7%AA-%D7%91%D7%A2%D7%96%D7%94-4-0#download&amp;from_embed" target="_blank">Documento en PDF</a><br><br>
+<iframe class="scribd_iframe_embed" title="חלופות לדירקטיבה מדינית לאוכלוסייה האזרחית בעזה - 4.0" src="https://www.scribd.com/embeds/680677071/content?start_page=1&view_mode=scroll&access_key=key-CBLb9pVHeUL8Xk4eatTz" tabindex="0" data-auto-height="true" data-aspect-ratio="0.7729220222793488" scrolling="no" width="100%" height="600" frameborder="0"></iframe><p  style="   margin: 12px auto 6px auto;   font-family: Helvetica,Arial,Sans-serif;   font-style: normal;   font-variant: normal;   font-weight: normal;   font-size: 14px;   line-height: normal;   font-size-adjust: none;   font-stretch: normal;   -x-system-font: none;   display: block;"   ><a title="View חלופות לדירקטיבה מדינית לאוכלוסייה האזרחית בעזה - 4.0 on Scribd" href="https://www.scribd.com/document/680677071/%D7%97%D7%9C%D7%95%D7%A4%D7%95%D7%AA-%D7%9C%D7%93%D7%99%D7%A8%D7%A7%D7%98%D7%99%D7%91%D7%94-%D7%9E%D7%93%D7%99%D7%A0%D7%99%D7%AA-%D7%9C%D7%90%D7%95%D7%9B%D7%9C%D7%95%D7%A1%D7%99%D7%99%D7%94-%D7%94%D7%90%D7%96%D7%A8%D7%97%D7%99%D7%AA-%D7%91%D7%A2%D7%96%D7%94-4-0#from_embed"  style="text-decoration: underline;">חלופות לדירקטיבה מדינית לאו...</a> by <a title="View LocalCall's profile on Scribd" href="https://www.scribd.com/user/265372492/LocalCall#from_embed"  style="text-decoration: underline;">LocalCall</a></p><br><br>
 {{< /rawhtml >}}
+
+##### **Documento traducido en inglés por +972 Magazine:**
+{{< rawhtml >}}
+<iframe class="scribd_iframe_embed" title="Israeli Intelligence Ministry Policy Paper on Gaza’s Civilian Population, October 2023" src="https://www.scribd.com/embeds/681086738/content?start_page=1&view_mode=scroll&access_key=key-szxnsnDGATb8yJgvroe9" tabindex="0" data-auto-height="true" data-aspect-ratio="0.7080062794348508" scrolling="no" width="100%" height="600" frameborder="0"></iframe><p  style="   margin: 12px auto 6px auto;   font-family: Helvetica,Arial,Sans-serif;   font-style: normal;   font-variant: normal;   font-weight: normal;   font-size: 14px;   line-height: normal;   font-size-adjust: none;   font-stretch: normal;   -x-system-font: none;   display: block;"   ><a title="View Israeli Intelligence Ministry Policy Paper on Gaza’s Civilian Population, October 2023 on Scribd" href="https://www.scribd.com/document/681086738/Israeli-Intelligence-Ministry-Policy-Paper-on-Gaza-s-Civilian-Population-October-2023#from_embed"  style="text-decoration: underline;">Israeli Intelligence Minist...</a> by <a title="View LocalCall's profile on Scribd" href="https://www.scribd.com/user/265372492/LocalCall#from_embed"  style="text-decoration: underline;">LocalCall</a></p><br>
+{{< /rawhtml >}}
+
+
 
 En él se evalúan tres opciones para el futuro de los palestinos de la Franja de Gaza en el contexto de la guerra actual y se recomienda un traslado completo de la población como medida preferente. 
 
