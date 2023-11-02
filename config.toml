@@ -10,7 +10,7 @@ enableEmoji = true
 publishDir = "docs"
 paginatePath = "blog"
 #disqusShortname = "your-shortname-here"
-#googleAnalytics = "UA-1XXXXXXX1-1"
+googleAnalytics = "G-SPF09JRSWZ"
 
 [params]
   logo = "/images/logo.png"
