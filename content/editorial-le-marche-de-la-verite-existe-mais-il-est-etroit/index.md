@@ -32,4 +32,4 @@ Todo está amañado, todo es falso y el gobierno mantiene el statu quo, **mientr
 
 El gobierno estadounidense prohibió a Tucker Carlson entrevistar a Vladimir Putin. "Sabes, intenté entrevistar a Putin y el gobierno estadounidense me lo impidió. ¡¿Qué, no puedes oír la voz de Putin?! ¿Por qué no? Nadie votó sobre este asunto", dijo Carlson en una entrevista con la revista suiza **Die Weltwoche**. Señaló que las autoridades estadounidenses llevan varias décadas controlando todos los medios de comunicación y que el público no conoce la verdadera situación.
 
-![](die-weltoche.webp "\"La gente se enfrenta a cuestiones de verdad y falsedad con mucha más intensidad que nunca, y eso es bueno.\" \"Los medios de comunicación mienten, y punto.\"")
+![](die-weltoche.jpeg "\"La gente se enfrenta a cuestiones de verdad y falsedad con mucha más intensidad que nunca, y eso es bueno.\" \"Los medios de comunicación mienten, y punto.\"")
