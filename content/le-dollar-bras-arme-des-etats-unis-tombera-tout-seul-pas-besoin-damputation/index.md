@@ -52,3 +52,5 @@ Tengo tres convicciones:
 - La tercera es que, en cierto modo, como reserva, el dólar es una especie de acción en la gran empresa que es "USA Inc". El dólar es una participación en USA Inc. que más o menos da derecho a una participación en los beneficios de USA, una participación en el excedente de producto de USA, o más exactamente, ¡una promesa de participación! Especifico promesa de acción, porque el portador del dólar se diluye constantemente, por el [efecto Cantillon](https://es.wikipedia.org/wiki/Efecto_Cantillon). Se diluye constantemente y es una estafa, pero la rentabilidad del capital americano es la más alta del mundo, y se ve reforzada por el esquema Ponzi y por la liquidez mantenida por el juego especulativo mundial.
 
 El dinero de John Law fue potenciado por la [calle Quincampoix](https://es.wikipedia.org/wiki/Sistema_de_Law)... y el dólar es potenciado por la calle de la Pared, Wall Street.
+
+![](john_law_quincampoix.jpg "Quiebra (crisis financiera) provocada por el sistema de John Law, economista escocés, establecido entre 1716 y 1720 en la calle Quincampoix de París")
