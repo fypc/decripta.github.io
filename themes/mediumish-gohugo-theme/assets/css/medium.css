@@ -37,11 +37,12 @@ html {
 a {
     color: #000000;
     text-decoration: underline #ce0000;
+    text-decoration-thickness: 10%;
     transition: all 0.2s;
 }
 
 a:hover {
-    color: #797979;
+    color: #ce0000;
 }
 
 pre {
@@ -595,6 +596,7 @@ ul.tags li a {
 ul.tags li a:hover {
     background: rgba(0, 0, 0, .07);
     text-decoration: none;
+    color: #ce0000
 }
 
 .margtop3rem {
