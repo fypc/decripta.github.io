@@ -1,16 +1,16 @@
 ---
 type: blog
-category: Editorial
+category:
 title: "La financiarización no se produce porque sí"
-date: 2018-10-07T11:17:14+02:00
-publishdate: 2020-08-19
+date: 2023-11-13
+publishdate: 2023-11-13
 tags: ["economía", "bruno bertez"]
 comments: false
 author: Bruno Bertez
 author_profile: "Propietario de prensa francesa especializada en información financiera. Como director de un grupo de prensa especializado en economía y finanzas, fundó el diario La Tribune. Escribe regularmente en el diario económico suizo L'Agefi. Es bloguero habitual en los sitios web de noticias Blog à Lupus, brunobertez.com, Atlantico y Lesobservateurs.ch."
 traduction: automatico mejorado
 source_language: francés
-source_site: la-chronique-agora.com
+source_site: brunobertez.com
 source_link: https://la-chronique-agora.com/la-financiarisation-ne-tombe-pas-du-ciel/
 draft: true
 ---
