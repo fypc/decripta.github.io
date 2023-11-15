@@ -1,7 +1,7 @@
 ---
 type: blog
 category:
-title: "Materia oscura y pretensión de saber"
+title: "Materia oscura y Pretensión de Conocimiento"
 date: 2023-11-13
 publishdate: 2023-11-13
 tags: ["economía", "finanzas"]
@@ -51,6 +51,6 @@ Sí, efectivamente hay mucha incertidumbre sobre la economía en estos momentos 
 
 ![](https://www.gpb.org/sites/default/files/styles/flexheight/public/npr_story_images/2023/11/10/gettyimages-1607950830-1--44c4ca67c848d56eaa5d69cbc04d80e8326b46a1.jpg "Sam Bankman-Fried a su llegada a la corte.")
 
-La segunda cosa que podría hacer la Reserva Federal es aún más sencilla: callarse. El constante hablar, sobre la economía y lo que piensan sobre la política futura, hace que la incertidumbre en torno a la futura política de la Fed ... bueno, incierto. La interpretación del discurso de la Reserva Federal puede ser un latigazo cervical, con un gobernador de línea dura y otro de línea moderada, y algunos tan confusos que llegan a culpar a la "materia oscura". La idea de una mayor apertura era hacer menos opaca la política futura, que la Reserva Federal ofreciera "orientación futura" y eliminara así la incertidumbre. Pero con tantas voces hablando, tantos egos compitiendo por la atención, han conseguido lo contrario.
+La segunda cosa que podría hacer la Reserva Federal es aún más sencilla: callarse. El constante hablar, sobre la economía y lo que piensan sobre la política futura, hace que la incertidumbre en torno a la futura política de la Fed... bueno, incierto. La interpretación del discurso de la Reserva Federal puede ser un latigazo cervical, con un gobernador de línea dura y otro de línea moderada, y algunos tan confusos que llegan a culpar a la "materia oscura". La idea de una mayor apertura era hacer menos opaca la política futura, que la Reserva Federal ofreciera "orientación futura" y eliminara así la incertidumbre. Pero con tantas voces hablando, tantos egos compitiendo por la atención, han conseguido lo contrario.
 
-La idea de la orientación anticipada (¿qué otro tipo de orientación habría?) también comete el error esbozado por Hayek en su discurso de aceptación del Nobel: la pretensión de conocimiento. Si la Reserva Federal fuera capaz de modelizar la economía, si fuera capaz de predecir con exactitud las variables económicas, el forward guidance sería estupendo (o eso suponemos). Pero por supuesto no pueden, así que intentarlo sólo añade incertidumbre. Sr. Kashkari, sus modelos son erróneos y la evidencia de ello le está mirando a la cara. Usted lo llama prima por plazo. Yo lo llamo hubris.
+La idea de la orientación anticipada (¿qué otro tipo de orientación habría?) también comete el error esbozado por Hayek en su discurso de aceptación del Nobel: la Pretensión del Conocimiento. Si la Reserva Federal fuera capaz de modelizar la economía, si fuera capaz de predecir con exactitud las variables económicas, el forward guidance sería estupendo (o eso suponemos). Pero por supuesto no pueden, así que intentarlo sólo añade incertidumbre. Sr. Kashkari, sus modelos son erróneos y la evidencia de ello le está mirando a la cara. Usted lo llama _prima por plazo_. Yo lo llamo _hubris_.
