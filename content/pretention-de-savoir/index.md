@@ -17,7 +17,7 @@ draft: false
 {{< highlight-grey >}}
 Es el residuo de todo lo que no podemos explicar. No es que nuestros modelos estén equivocados, es la materia oscura que hay ahí fuera. **- Neel Kashkari, Gobernador de la Fed, refiriéndose a la "prima por plazo" en los rendimientos del Tesoro a largo plazo**
 
-La curiosa tarea de la economía es demostrar a los hombres lo poco que saben realmente sobre lo que imaginan que pueden diseñar. **- F.A. Hayek, The Fatal Conceit (El engaño fatal)**
+La curiosa tarea de la economía es demostrar a los hombres lo poco que saben realmente sobre lo que imaginan que pueden diseñar. **- F.A. Hayek, The Fatal Conceit (La Fatal Arrogancia)**
 
 Los economistas están llamados en este momento a decir cómo liberar al mundo libre de la grave amenaza de la aceleración de la inflación que, hay que admitir, ha sido provocada por las políticas que la mayoría de los economistas recomendaron e incluso instaron a los gobiernos a seguir. **- F.A. Hayek, The Pretense of Knowledge, discurso de aceptación del Premio Nobel, diciembre de 1974.**
 {{< /highlight-grey >}}
