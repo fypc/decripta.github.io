@@ -1,75 +1,56 @@
 ---
 type: blog
 category:
-title: "La financiarización no se produce porque sí"
+title: "Materia oscura y pretención de saber"
 date: 2023-11-13
 publishdate: 2023-11-13
-tags: ["economía", "bruno bertez"]
+tags: ["economía", "finanzas"]
 comments: false
-author: Bruno Bertez
-author_profile: "Propietario de prensa francesa especializada en información financiera. Como director de un grupo de prensa especializado en economía y finanzas, fundó el diario La Tribune. Escribe regularmente en el diario económico suizo L'Agefi. Es bloguero habitual en los sitios web de noticias Blog à Lupus, brunobertez.com, Atlantico y Lesobservateurs.ch."
+author: Joseph Y. Calhoun III
+author_profile: 
 traduction: automatico mejorado
-source_language: francés
-source_site: brunobertez.com
-source_link: https://la-chronique-agora.com/la-financiarisation-ne-tombe-pas-du-ciel/
-draft: true
+source_language: inglés
+source_site: alhambrapartners.com
+source_link: https://alhambrapartners.com/2023/11/13/weekly-market-pulse-dark-matter/
+draft: false
 ---
+{{< highlight-grey >}}
+Es el residuo de todo lo que no podemos explicar. No es que nuestros modelos estén equivocados, es la materia oscura que hay ahí fuera. **- Neel Kashkari, Gobernador de la Fed, refiriéndose a la "prima por plazo" en los rendimientos del Tesoro a largo plazo**
 
-La financiarización de la economía es innegable y visible... y está pervirtiendo todo el sistema. Pero, ¿por qué? ¿Cómo se ha producido? ¿Y cómo podemos definirla?
+La curiosa tarea de la economía es demostrar a los hombres lo poco que saben realmente sobre lo que imaginan que pueden diseñar. **- F.A. Hayek, The Fatal Conceit (El engaño fatal)**
 
-La financiarización no es un mito ni una invención de los teóricos de la conspiración, es una realidad ineludible. Su manifestación visible, su modo de aparición, es la explosión de la masa de activos en el sector financiero.
+Los economistas están llamados en este momento a decir cómo liberar al mundo libre de la grave amenaza de la aceleración de la inflación que, hay que admitir, ha sido provocada por las políticas que la mayoría de los economistas recomendaron e incluso instaron a los gobiernos a seguir. **- F.A. Hayek, The Pretense of Knowledge, discurso de aceptación del Premio Nobel, diciembre de 1974.**
+{{< /highlight-grey >}}
 
-El síntoma de su exceso es la fragilidad y la tendencia a la inestabilidad.
+_La prima por plazo_ y términos similares son el último refugio de los sinvergüenzas de la planificación central en todas partes. Es el factor que los banqueros centrales utilizan hoy para explicar la reciente subida de los tipos de interés a largo plazo. La prima por plazo se define como el rendimiento extra que los inversores necesitan para mantener bonos a largo plazo en lugar de invertir en una serie de vencimientos más cortos. Es la parte del rendimiento de los bonos que sube y baja con la incertidumbre. Esa incertidumbre puede abarcar una serie de factores, desde la trayectoria de la futura política de la Reserva Federal hasta las expectativas de inflación, pasando por el crecimiento económico o el riesgo crediticio. 
 
-En este caso, esta explosión se expresa en porcentaje de la producción anual: el PIB. Estas cifras son indiscutibles porque son oficiales.
+Por supuesto, no sabemos ni podemos saber exactamente por qué los inversores compran o venden bonos a un precio determinado. Podemos medir las expectativas de inflación, por supuesto, pero hay una gran variedad de formas de hacerlo, desde comparar los rendimientos de los TIPS con los rendimientos nominales, hasta encuestas a economistas o encuestas al público. El mayor problema es que las expectativas de inflación no están correlacionadas en absoluto con la inflación futura real. ¿Tienen en cuenta hoy los precios de los bonos la incertidumbre de la diferencia entre las expectativas de inflación actuales y la inflación futura real? No tengo ni idea y Neel Kashkari tampoco.
 
-En el gráfico siguiente podemos ver que los activos financieros del sector privado en EE.UU. en porcentaje del PIB alcanzan máximos históricos.
+Los precios de los bonos fluctuaron en un rango bastante amplio la semana pasada, de unos 18 puntos básicos, pero el índice MOVE -el equivalente en el mercado de bonos al índice de volatilidad para las acciones- ha estado subiendo desde que los rendimientos de los bonos empezaron a subir en agosto de 2021. Y se ha elevado a máximos de varios años desde que la Fed empezó a subir los tipos en la primavera del año pasado. Por lo tanto, si las expectativas de inflación han caído desde entonces - y lo han hecho - entonces el aumento de los tipos nominales tiene que ser por el aumento de las expectativas de crecimiento real o la incertidumbre sobre la calidad del crédito de los EE.UU. o la incertidumbre en torno a la futura política de la Fed. La respuesta probablemente sea algo de todo eso, pero la pregunta es imposible de responder. 
 
-![Los activos financieros del sector privado en EE.UU. en porcentaje del PIB alcanzan máximos históricos](https://pbs.twimg.com/media/FKDCfQRWYA0jeVL?format=jpg)
+Por supuesto, actualmente existe una gran preocupación por la deuda pública estadounidense. Moody's cambió la perspectiva crediticia de EE.UU. a negativa a última hora del viernes. También tuvimos una mala subasta de bonos a 30 años la semana pasada, en la que los intermediarios primarios tuvieron que comprar más de lo habitual de los bonos puestos a la venta. Pero no sabemos por qué la subasta salió mal. Puede que no tenga nada que ver con la solvencia crediticia de Estados Unidos. Puede que la incertidumbre en torno a otras posibles emisiones fuera el factor determinante. ¿Quién quiere comprar bonos del Tesoro a 30 años con tanta incertidumbre sobre el crecimiento y la inflación futuros? Y no hay que olvidar a la propia Reserva Federal, que está produciendo discursos de la Fed a un ritmo alarmante, casi igualando la subida de precios que ninguno de sus discursos anteriores anticipaba.
 
-### Hay un "antes" y un "después"
+Siempre hay quienes, como el Sr. Kashkari, piensan que deberíamos ser capaces de modelar la economía y aprender lo suficiente para guiar la economía hacia nuestro resultado preferido, o al menos el suyo.
 
-Así define la financiarización el economista Gerald Epstein: 
+{{< highlight-red >}}
+No deja de sorprenderme que economistas que se consideran capitalistas acérrimos crean que, si disponen de información suficiente, podrían hacer lo que creen firmemente que los socialistas y los comunistas no pueden. A saber, moldear la economía a través de la política, fiscal y/o monetaria, para producir un mejor resultado que el mercado dejado a sus propios recursos. En otras palabras, creen que la planificación central funcionaría si fueran ellos quienes la llevaran a cabo.
+{{< /highlight-red >}}
 
-> "La financiarización se refiere al creciente papel de los incentivos financieros, los mercados financieros, los actores financieros y las instituciones financieras en el funcionamiento de las economías nacionales e internacionales"
+En estos momentos, tanto la política fiscal como la monetaria intentan guiar la economía.
 
-Continúa describiendo todo un mundo:
+{{< highlight-red >}}
+El objetivo de esas políticas a veces está en desacuerdo, como ahora que la política fiscal intenta expandir la economía mientras que la política monetaria trata de contenerla. El resultado es que algunas de las políticas fiscales están siendo contrarrestadas directamente por la política monetaria.
+{{< /highlight-red >}}
 
-> - Algunos autores utilizan el término 'financiarización' para referirse al ascenso del 'valor para el accionista' como modo de gobierno corporativo;
->  - algunos lo utilizan para referirse al creciente dominio de los sistemas financieros del mercado de capitales sobre los sistemas financieros basados en los bancos;
->  - algunos siguen el ejemplo de Hilferding y utilizan el término 'financiarización' para referirse al creciente poder político y económico de un grupo de clase concreto: la clase rentista;
->  - para algunos, la financiarización representa la explosión del comercio financiero con una miríada de nuevos instrumentos financieros;
->  - por último, para [Greta] Krippner, que fue la primera en utilizar el término, se refiere a 'un modelo de acumulación en el que los beneficios se obtienen cada vez más a través de canales financieros en lugar de a través del comercio y la producción de mercancías'.
+La semana pasada se canceló un nuevo proyecto de reactor modular en Idaho, a pesar de las considerables subvenciones del gobierno, porque el aumento de la inflación y de los tipos de interés incrementó el coste del proyecto en un 75%. Múltiples proyectos de energía eólica marina, parte del impulso a la energía verde del Presidente Biden, han sido cancelados recientemente por razones similares. NextEra Energy vio caer el precio de sus acciones una cuarta parte en 10 días a finales de septiembre debido al aumento de los costes en su unidad de energías renovables, similar a los problemas de los proyectos eólicos.
 
-Es esta definición la que me parece más interesante porque Krippner afirma:
-
-> "Las finanzas son el nuevo explotador dominante, no el capital como tal. Así pues, las finanzas son ahora el verdadero enemigo, no el capitalismo como tal.
-> 
-> La inestabilidad y la naturaleza especulativa del capital financiero es la verdadera causa de las crisis del capitalismo, no de la caída de la rentabilidad de la producción de cosas y servicios, como sostiene la ley de Marx de la caída de la rentabilidad del capital".
-
-La afirmación de Krippner tiene un defecto considerable: hace descender la financiarización del cielo, sin causa, sin origen.
+Además de las consecuencias intencionadas y no intencionadas de la política económica, la economía cambia constantemente por sí misma debido a cambios en las preferencias de los consumidores, los precios, los descubrimientos científicos y tecnológicos y cualquier otra serie de factores. Si a esto añadimos los cambios inducidos por COVID, obtenemos una economía que no actúa como todo el mundo, incluida la Reserva Federal. COVID, por cierto, en realidad sólo aceleró algunas tendencias que ya estaban en marcha, pero la aceleración también importa. [Aquí hay un vídeo](https://youtu.be/H_2x0bKMgXU?si=1dBKx-FNYJZK1Bfd) que hicimos la semana pasada sobre los cambios en el consumo desde COVID.
 
 
+Sí, efectivamente hay mucha incertidumbre sobre la economía en estos momentos y supongo que eso significa que la prima por plazo está subiendo. La incertidumbre siempre está con nosotros y no estoy seguro de que sea peor hoy que, digamos, hace 10 años, pero creo que si la Reserva Federal quiere minimizarla, podría hacer dos cosas. En primer lugar, podrían hacer menos. Es el colmo de la locura y la arrogancia creer que la política monetaria puede o debe utilizarse para ajustar la economía. Al intentar ejercer un control que no tienen, la propia Reserva Federal altera el funcionamiento normal de la economía sin tener en cuenta las consecuencias imprevistas. Y siempre hay consecuencias imprevistas. Como prueba de las consecuencias de una mala política monetaria, ofrezco esto:
 
-### No hay vuelta atrás
+![](https://www.gpb.org/sites/default/files/styles/flexheight/public/npr_story_images/2023/11/10/gettyimages-1607950830-1--44c4ca67c848d56eaa5d69cbc04d80e8326b46a1.jpg)
 
+La segunda cosa que podría hacer la Reserva Federal es aún más sencilla: callarse. El constante hablar, sobre la economía y lo que piensan sobre la política futura, hace que la incertidumbre en torno a la futura política de la Fed ... bueno, incierto. La interpretación del discurso de la Reserva Federal puede ser un latigazo cervical, con un gobernador de línea dura y otro de línea moderada, y algunos tan confusos que llegan a culpar a la "materia oscura". La idea de una mayor apertura era hacer menos opaca la política futura, que la Reserva Federal ofreciera "orientación futura" y eliminara así la incertidumbre. Pero con tantas voces hablando, tantos egos compitiendo por la atención, han conseguido lo contrario.
 
-Pero la financiarización es un proceso que se extiende en el tiempo; tiene un origen. Sus orígenes se encuentran en la crisis de rentabilidad del capital productivo, que comenzó en 1973 y fue contrarrestada gradualmente por la introducción del neoliberalismo y las reformas desreguladoras.
-
-**La financiarización no surgió de la nada: se produjo por la necesidad del sistema económico de compensar la insuficiencia de la renta y la insuficiencia profitabilidad del capital mediante la generación de deuda.**
-
-Esto es importante, porque sugiere que la financiarización no puede revertirse sin dolor: primero hay que abordar la causa de esta perversión. La causa es que no hay suficiente beneficio en el sistema... **y no hay suficiente beneficio porque hay demasiado capital reclamándolo**.
-
-Dada la relativa escasez de beneficios, no podemos distribuir todos los ingresos que el sistema necesita para funcionar. Son la deuda y/o el crédito los que complementan los ingresos de empresas, gobiernos y hogares por igual.
-
-En resumen, no hay suficiente para todos.
-
-La teoría de la financiarización de Krippner no permite enteder las crisis y es incapaz de explicar por qué, en el mundo financiarizado, estamos obligados a presionar sobre los salarios, a confiscar los aumentos de productividad, en resumen, estamos obligados a aumentar la tasa de explotación de los asalariados.
-
-Ben Bernanke, antiguo jefe de la Reserva Federal estadounidense durante el gran boom crediticio de principios de la década de 2000, ha presentado su versión de la "financiarización" como algo caído del cielo y la única causa de las crisis.
-
-Para él, las crisis son el resultado de "pánicos financieros", es decir, de gente que pierde la cabeza y entra en pánico para vender y reducir sus deudas de forma totalmente imprevisible; todo ello sería el resultado de diversos factores psicológicos, los famosos "_espíritus animales_" de Keynes, muy queridos por Alan Greenspan.
-
-Pregunta sencilla: si todo esto es psicológico, sin causa ni justificación en la economía real, ¿por qué después no volvió todo a la normalidad?
-
-La financiarización tiene una causa real, material y no psicológica, que reside en la economía real: la tendencia a la erosión de la rentabilidad del capital, que obliga a los agentes económicos a completar sus recursos ganados con crédito, es decir, acumulando activos financieros.
+La idea de la orientación anticipada (¿qué otro tipo de orientación habría?) también comete el error esbozado por Hayek en su discurso de aceptación del Nobel: la pretensión de conocimiento. Si la Reserva Federal fuera capaz de modelizar la economía, si fuera capaz de predecir con exactitud las variables económicas, el forward guidance sería estupendo (o eso suponemos). Pero por supuesto no pueden, así que intentarlo sólo añade incertidumbre. Sr. Kashkari, sus modelos son erróneos y la evidencia de ello le está mirando a la cara. Usted lo llama prima por plazo. Yo lo llamo hubris.
