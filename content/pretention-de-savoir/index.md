@@ -1,7 +1,7 @@
 ---
 type: blog
 category:
-title: "Materia oscura y Pretensión de Conocimiento"
+title: "Materia oscura y Pretensión del Conocimiento"
 date: 2023-11-13
 publishdate: 2023-11-13
 tags: ["economía", "finanzas"]
@@ -19,7 +19,7 @@ Es el residuo de todo lo que no podemos explicar. No es que nuestros modelos est
 
 La curiosa tarea de la economía es demostrar a los hombres lo poco que saben realmente sobre lo que imaginan que pueden diseñar. **- F.A. Hayek, The Fatal Conceit (La Fatal Arrogancia)**
 
-Los economistas están llamados en este momento a decir cómo liberar al mundo libre de la grave amenaza de la aceleración de la inflación que, hay que admitir, ha sido provocada por las políticas que la mayoría de los economistas recomendaron e incluso instaron a los gobiernos a seguir. **- F.A. Hayek, The Pretense of Knowledge (La Pretensión de Conocimiento), discurso de aceptación del Premio Nobel, diciembre de 1974.**
+Los economistas están llamados en este momento a decir cómo liberar al mundo libre de la grave amenaza de la aceleración de la inflación que, hay que admitir, ha sido provocada por las políticas que la mayoría de los economistas recomendaron e incluso instaron a los gobiernos a seguir. **- F.A. Hayek, The Pretense of Knowledge (La Pretensión del Conocimiento), discurso de aceptación del Premio Nobel, diciembre de 1974.**
 {{< /highlight-grey >}}
 
 La _prima por plazo_ y términos similares son el último refugio de los sinvergüenzas de la planificación central en todas partes. Es el factor que los banqueros centrales utilizan hoy para explicar la reciente subida de los tipos de interés a largo plazo. La prima por plazo se define como el rendimiento extra que los inversores necesitan para mantener bonos a largo plazo en lugar de invertir en una serie de vencimientos más cortos. Es la parte del rendimiento de los bonos que sube y baja con la incertidumbre. Esa incertidumbre puede abarcar una serie de factores, desde la trayectoria de la futura política de la Reserva Federal hasta las expectativas de inflación, pasando por el crecimiento económico o el riesgo crediticio. 
