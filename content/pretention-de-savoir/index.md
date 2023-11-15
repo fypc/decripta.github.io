@@ -7,7 +7,7 @@ publishdate: 2023-11-13
 tags: ["economía", "finanzas"]
 comments: false
 author: Joseph Y. Calhoun III
-author_profile: 
+author_profile: Joe Calhoun es el Presidente de Alhambra Investments, una empresa de asesoramiento de inversiones que opera desde 2006. Desarrolló las exclusivas carteras de múltiples clases de activos de Alhambra.
 traduction: automatico mejorado
 source_language: inglés
 source_site: alhambrapartners.com
