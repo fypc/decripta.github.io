@@ -1,7 +1,7 @@
 ---
 type: blog
 category:
-title: "Materia oscura y pretención de saber"
+title: "Materia oscura y pretensión de saber"
 date: 2023-11-13
 publishdate: 2023-11-13
 tags: ["economía", "finanzas"]
