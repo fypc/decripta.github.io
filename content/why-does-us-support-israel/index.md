@@ -127,7 +127,7 @@ Y puedo darte una anécdota. El principal asesor de seguridad nacional de Netany
 
 Uzi y yo hicimos dos viajes a Corea y Japón para hablar de finanzas internacionales. Así que tuvimos la oportunidad de conocernos. Y en un viaje, hicimos escala de Nueva York a San Francisco. Y en San Francisco, hubo una fiesta o una reunión para que la gente nos conociera.
 
-Uno de los generales estadounidenses se acercó, le dio una palmada en la espalda a Uzi y le dijo: "Eres nuestro portaaviones en tierra. Te queremos.
+Uno de los generales estadounidenses se acercó, le dio una palmada en la espalda a Uzi y le dijo: "Eres nuestro portaaviones en tierra. Te queremos".
 
 Bueno, pude ver a Uzi sintiéndose, apretándose y sintiéndose muy avergonzado y realmente no tenía nada que decir. Pero Estados Unidos siempre ha visto a Israel como nuestra base militar extranjera, no como Israel.
 
