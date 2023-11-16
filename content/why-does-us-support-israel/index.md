@@ -285,7 +285,7 @@ Así que parece que este escenario es inevitable porque Mearsheimer señaló que
 
 Y no se puede tener un Estado único porque un Estado único es un Estado teocrático. Es como, de nuevo, es como los Estados Unidos en el Salvaje Oeste en el siglo 19.
 
-Y creo que la forma de ponerlo en perspectiva es darse cuenta de que lo que estamos viendo hoy en el intento de dividir el mundo es muy parecido, perdón, muy parecido a lo que ocurrió en los siglos XII y XIII con las Cruzadas.
+Y creo que la forma de ponerlo en perspectiva es darse cuenta de que lo que estamos viendo hoy en el intento de dividir el mundo es muy parecido a lo que ocurrió en los siglos XII y XIII con las Cruzadas.
 
 **BEN NORTON:** Sí, Michael, planteas un montón de puntos muy importantes. Y sé que quieres seguir hablando de las Cruzadas y de la analogía histórica. Y creo que has hecho un buen comentario sobre el imperio estadounidense como los nuevos cruzados.
 
