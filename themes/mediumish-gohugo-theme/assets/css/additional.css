@@ -55,7 +55,7 @@ figcaption {
     padding-bottom: 1.0rem;
     font-size: calc(.875rem*var(--font-size-scale));
     line-height: calc(1.25rem*var(--font-size-scale));
-    background-color: #f2f2f2;
+    background-color: var(--beige-dark);
     color: #1a1a1a;
     text-align: center;
     /* display: block; */
