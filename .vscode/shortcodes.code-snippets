@@ -1,0 +1,37 @@
+{
+  "hightlight-grey": {
+    "prefix": "hightlight-grey",
+    "body": [
+			"{{< highlight-grey >}}",
+			"${4:content}",
+      "{{< /highlight-grey >}}",
+      "",
+      "$0"
+	],
+    "description": "hightlight-grey"
+  },
+	"hightlight-color": {
+    "prefix": "hightlight-color",
+    "body": [
+			"{{< highlight-color color>}}",
+			"${4:content}",
+      "{{< /highlight-color >}}",
+      "",
+      "$0"
+	],
+    "description": "hightlight-grey"
+  },
+  "notice": {
+    "prefix": "notice",
+    "body": [
+      "{{< notice type=\"${1:type}\" title=\"${3:title}\" >}}",
+      "${4:content}",
+      "{{< notice >}}",
+      "",
+      "$0"
+    ],
+    "description": "notice Hugo shortcode"
+  }
+}
+
+

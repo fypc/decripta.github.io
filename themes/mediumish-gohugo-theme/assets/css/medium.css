@@ -59,6 +59,7 @@ License: https://www.wowthemes.net/freebies-license/
     --collection-background-grey-section: #dad4c6;
     --sand: #f1d5b9;
     --red-transparent:#ce00002b;
+    --hightlight-red:#ce00002b;
 }
 
 html {
@@ -477,7 +478,7 @@ span.post-read-more a:hover {
     margin-top: 50px;
     margin-bottom: 62px;
     position: relative;
-    background: #fff;
+    /* background: #fff; */
 }
 
 .link-dark {

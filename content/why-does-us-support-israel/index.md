@@ -420,3 +420,11 @@ Para las personas que estén interesadas, en realidad he entrevistado a Michael.
 Si visitan nuestro sitio web, geopoliticaleconomy.com, o nuestro canal de YouTube, encontrarán una lista de reproducción con todos los episodios de La Hora de la Economía Geopolítica. Así que gracias de nuevo, Michael, y sin duda le tendremos de vuelta muy pronto.
 
 **MICHAEL HUDSON:** Me alegro de estar aquí. Es un placer estar aquí.
+
+
+
+
+
+
+
+
