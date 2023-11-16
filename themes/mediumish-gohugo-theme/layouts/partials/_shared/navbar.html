@@ -2,9 +2,12 @@
 ================================================== -->
 <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
     <div class="container pr-0">
-        <!-- Begin Logo -->
-        <a href="{{ .Site.BaseURL }}"><img height="70" alt="Logo" src="{{ .Site.BaseURL }}{{ .Site.Params.logo }}" /></a>
-        <!-- End Logo -->
+        <div class="navbar-logo">
+            <!-- Begin Logo -->
+            <a href="{{ .Site.BaseURL }}"><img height="70" alt="Logo" src="{{ .Site.BaseURL }}{{ .Site.Params.logo }}" /></a>
+            <!-- End Logo -->
+        </div>
+        
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
