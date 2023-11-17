@@ -11,6 +11,7 @@ publishDir = "docs"
 paginatePath = "blog"
 #disqusShortname = "your-shortname-here"
 googleAnalytics = "G-SPF09JRSWZ"
+rssLimit = 25
 
 [params]
   logo = "/images/logo.png"
