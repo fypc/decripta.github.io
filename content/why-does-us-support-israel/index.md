@@ -1,7 +1,7 @@
 ---
 type: blog
 category: Entrevista
-title: "LEER: ¿Por qué Estados Unidos apoya tan firmemente a Israel? Para una comprensión del conflicto y su manipulación"
+title: "LECTURA CLAVE: ¿Por qué Estados Unidos apoya tan firmemente a Israel? Para una comprensión del conflicto y su manipulación"
 date: 2023-11-16
 publishdate: 2023-11-16
 tags: ["geopolítica"]
