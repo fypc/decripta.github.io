@@ -74,10 +74,10 @@ Washington debe tomar la iniciativa en el lanzamiento de consultas con Ucrania y
 
 Un alto el fuego salvaría vidas, permitiría poner en marcha la reconstrucción económica y permitiría a Ucrania dedicar las armas occidentales entrantes a invertir en su seguridad a largo plazo en vez de gastar rápidamente armamento en un campo de batalla estancado. Los términos precisos de un alto el fuego –el calendario, la ubicación exacta de una línea de contacto, los procedimientos para la retirada de armas y fuerzas, las disposiciones para la observación y el cumplimiento– tendrían que elaborarse bajo una amplia supervisión internacional, muy probablemente bajo los auspicios de las Naciones Unidas o de la Organización para la Seguridad y la Cooperación en Europa.
 
-Un alto el fuego sólo entraría en vigor si tanto Ucrania como Rusia aceptan sus términos. El cumplimiento por parte de Moscú no está descartado. Las fuerzas rusas han sufrido graves pérdidas en el campo de batalla, y el acto de agresión del Kremlin ha resultado claramente contraproducente, al reforzar a la OTAN, la cohesión transatlántica y la determinación de Ucrania de liberarse para siempre de la esfera de influencia rusa. Putin podría aprovechar la oportunidad para frenar el derramamiento de sangre e intentar sacar a Rusia del frío.
+Un alto el fuego sólo entraría en vigor si tanto Ucrania como Rusia aceptan sus términos. **El cumplimiento por parte de Moscú no está descartado.** Las fuerzas rusas han sufrido graves pérdidas en el campo de batalla, y el acto de agresión del Kremlin ha resultado claramente contraproducente, al reforzar a la OTAN, la cohesión transatlántica y la determinación de Ucrania de liberarse para siempre de la esfera de influencia rusa. Putin podría aprovechar la oportunidad para frenar el derramamiento de sangre e intentar sacar a Rusia del frío.
 
 {{< highlight-red >}}
-Sin embargo, es mucho más probable que Moscú rechace una propuesta de alto el fuego. Putin sigue albergando objetivos bélicos expansivos en Ucrania y parece creer que Rusia tiene más poder de resistencia que Ucrania. Sin duda está siguiendo de cerca las encuestas de opinión en Estados Unidos que indican que el regreso de Trump a la Casa Blanca es una posibilidad realista, un resultado que sin duda debilitaría, si no acabaría, con el apoyo estadounidense a Ucrania. Incluso si el Kremlin quisiera evitar el rechazo rotundo de una propuesta de alto el fuego para eludir los costes de reputación de hacerlo, podría contraatacar con términos que seguramente serían inaceptables para Ucrania y Occidente.
+Sin embargo, es mucho más probable que Moscú rechace una propuesta de alto el fuego. Putin sigue albergando objetivos bélicos expansivos en Ucrania y **parece creer que Rusia tiene más poder de resistencia que Ucrania**. Sin duda está siguiendo de cerca las encuestas de opinión en Estados Unidos que indican que el regreso de Trump a la Casa Blanca es una posibilidad realista, un resultado que sin duda debilitaría, si no acabaría, con el apoyo estadounidense a Ucrania. Incluso si el Kremlin quisiera evitar el rechazo rotundo de una propuesta de alto el fuego para eludir los costes de reputación de hacerlo, podría contraatacar con términos que seguramente serían inaceptables para Ucrania y Occidente.
 {{< /highlight-red >}}
 
 Sin embargo, en última instancia, intentar negociar un alto el fuego entre Kiev y Moscú merece menos la pena por lo que lograría que por lo que revelaría. **Incluso si Rusia rechazara el alto el fuego propuesto, tendría sentido que Kiev lo pusiera sobre la mesa.** Esto permitiría a Ucrania tomar la iniciativa política, recordando a la opinión pública occidental y extranjera que esta guerra sigue siendo una agresión rusa. El rechazo del Kremlin a un alto el fuego ayudaría a los gobiernos occidentales a mantener y endurecer las sanciones contra Rusia y a Ucrania a conseguir apoyo militar y económico a largo plazo.
@@ -86,7 +86,7 @@ Independientemente de que el alto el fuego se consolide o no, Ucrania debe pasar
 
 Un cambio de estrategia en este sentido daría la vuelta a la tortilla y obligaría a Rusia a llevar a cabo algo de lo que hasta ahora ha demostrado ser incapaz: operaciones ofensivas eficaces con armas combinadas. Al mismo tiempo, este cambio ahorraría vidas y dinero a Ucrania y reduciría sus necesidades de defensa de Occidente, algo que podría resultar esencial si el apoyo de Estados Unidos disminuye y Europa se ve obligada a soportar la carga. Ucrania haría bien en dedicar los recursos que recibe a su seguridad y prosperidad a largo plazo, en vez de gastarlos en el campo de batalla para obtener escasos beneficios.
 
-Persuadir al Presidente ucraniano Volodymyr Zelensky y a la opinión pública ucraniana para que cambien de rumbo no sería tarea fácil, dada la justicia de su causa y todo lo que ya se ha sacrificado. Pero la realidad es que lo que comenzó como una guerra de necesidad para Ucrania –una lucha por su propia supervivencia– se ha transformado en una guerra de elección, una lucha por recuperar Crimea y gran parte de la región de Donbás, en el este de Ucrania. No sólo es una guerra imposible de ganar, sino que además corre el riesgo de perder el apoyo de Occidente con el tiempo. Para Ucrania tiene mucho más sentido asegurarse de que la mayor parte del país bajo control de Kiev emerja como una democracia próspera y segura que arriesgar el futuro de la nación en un esfuerzo militar a largo plazo para recuperar territorio aún bajo control ruso. La emergencia de Ucrania como una democracia próspera y resistente, capaz de defenderse por sí misma, constituiría una rotunda derrota de la ambición rusa.
+Persuadir al Presidente ucraniano Volodymyr Zelensky y a la opinión pública ucraniana para que cambien de rumbo no sería tarea fácil, dada la justicia de su causa y todo lo que ya se ha sacrificado. Pero la realidad es que lo que comenzó como una guerra de necesidad para Ucrania –una lucha por su propia supervivencia– se ha transformado en una guerra de elección, una lucha por recuperar Crimea y gran parte de la región de Donbás, en el este de Ucrania. No sólo es una guerra imposible de ganar, sino que además corre el riesgo de perder el apoyo de Occidente con el tiempo. Para Ucrania tiene mucho más sentido asegurarse de que la mayor parte del país bajo control de Kiev emerja como **una democracia próspera y segura** que arriesgar el futuro de la nación en un esfuerzo militar a largo plazo para recuperar territorio aún bajo control ruso. La emergencia de Ucrania como una democracia próspera y resistente, capaz de defenderse por sí misma, constituiría una rotunda derrota de la ambición rusa.
 
 ##### UNA APUESTA MEJOR
 Los amigos de Ucrania en Occidente pueden y deben endulzar lo que sería un trago amargo para los ucranianos. Estados Unidos y algunos miembros de la OTAN (una coalición de amigos de Ucrania) deberían comprometerse no sólo a prestar ayuda económica y militar a largo plazo, sino también a garantizar la independencia de Ucrania. Este compromiso se basaría en el [artículo 4 del Tratado de la OTAN](https://www.nato.int/cps/fr/natohq/official_texts_17120.htm?selectedLocale=es), que prevé consultas inmediatas siempre que "la integridad territorial, la independencia política o la seguridad" de un miembro se vean amenazadas. La Unión Europea, que ha anunciado recientemente su intención de iniciar las negociaciones de adhesión con Kiev, debería acelerar el calendario de adhesión de Ucrania y ofrecerle, mientras tanto, un acuerdo especial al estilo de la UE. Los aliados occidentales también deberían dejar claro que la mayoría de las sanciones contra Rusia se mantendrían hasta que las fuerzas rusas abandonaran Ucrania, y que ayudarían a este país a restaurar su integridad territorial en la mesa de negociaciones.
@@ -98,3 +98,28 @@ Es muy posible que las perspectivas de un alto el fuego de mutuo acuerdo y de ne
 RICHARD HAASS es Presidente Emérito del Consejo de Relaciones Exteriores y consejero principal de Centerview Partners. Es autor de *The Bill of Obligations: Los diez hábitos del buen ciudadano*.
 
 CHARLES KUPCHAN, Senior Fellow del Council on Foreign Relations y Profesor de Asuntos Internacionales en la Universidad de Georgetown, fue Director Senior de Asuntos Europeos en el Consejo de Seguridad Nacional durante la administración Obama. Es autor de *Isolationism: A History of America's Efforts to Shield Itself From the World*.
+
+---
+
+##### Comentarios de lectores:
+
+**PIERRED:**
+
+Este texto es un verdadero festival. Voy a copiar 2 o 3 estupideces del mismo:
+
+- "Moscú .... tiene acceso a artículos de consumo que contienen tecnología que puede reutilizar para usos militares". 
+¡Es un buen recordatorio de que los rusos reutilizan chips de lavadoras usadas con fines militares! Pero Richard HAASS, el presidente emérito, se olvida de señalar que los rusos también luchan con palas y que Putin está dispuesto a morir ¡cualquier día de estos!
+- "Un alto el fuego sólo entraría en vigor si tanto Ucrania como Rusia aceptan sus términos. **El cumplimiento por parte de Moscú no está descartado.**"
+- "Putin [...] **parece creer que Rusia tiene más poder de resistencia que Ucrania**".
+- Conclusión: "que la mayor parte del país bajo control de Kiev emerja como **una democracia próspera y segura**" (arruinada, vaciada de sus recursos humanos, infestada de nazis, sembrada de campos de minas, despojada de sus buenas tierras de cultivo por los fondos buitre estadounidenses, ¡pero próspera y segura!)
+
+**CONDAMY:**
+
+Impresionante en su incapacidad para ver nada más que sus propios deseos, que acaban negando la realidad.
+
+**STEVE:**
+
+*"Debe saber, señor, que con esta gente, ¡no pensamos!
+no pensamos .... no pensamos"* (Jacques Brel)
+
+Es más, eran sus colegas de la oficina de al lado los que también "pensaban" en el COVID.
