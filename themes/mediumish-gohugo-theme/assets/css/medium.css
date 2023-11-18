@@ -168,7 +168,7 @@ a:hover {
     a {
         position: relative;
         text-decoration: none;
-        color: #000; /* Set the default color */
+        color: rgba(0, 0, 0, .8); /*Set the default color */
         background-image: linear-gradient(to right, #000, #000);
         background-size: 100% 1px; /* Start with the underline visible */
         background-repeat: no-repeat;

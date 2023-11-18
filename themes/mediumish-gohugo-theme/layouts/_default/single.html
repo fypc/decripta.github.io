@@ -64,7 +64,7 @@
                         <div>{{ index .Params "author_profile"}}</div>
                         <div><span class="field">Publicado el {{ .PublishDate | time.Format ":date_long" }}</span></div>
                         <div><span class="field">Traducido del {{ index .Params "source_language"}} ({{ index .Params "traduction"}})</span></div>
-                        <div><span class="field">Fuente: </span><a href="{{ index .Params "source_link"}}">{{index .Params "source_site"}}</a></div>
+                        <div><span class="field">Fuente: </span><a href="{{ index .Params "source_link"}}" target="_blank" rel="noopener noreferrer">{{index .Params "source_site"}}</a></div>
                     </div>
                     {{ else }}
                     <div class="article-post-author">
