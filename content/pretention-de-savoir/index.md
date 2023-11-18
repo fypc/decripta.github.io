@@ -1,6 +1,6 @@
 ---
 type: blog
-category:
+category: Documento
 title: "Materia oscura y Pretensión del Conocimiento"
 date: 2023-11-13
 publishdate: 2023-11-13

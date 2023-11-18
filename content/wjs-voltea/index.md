@@ -1,6 +1,6 @@
 ---
 type: blog
-category: 
+category: Documento
 title: "Ucrania: La prensa económica se voltea descaradamente"
 date: 2023-11-17
 publishdate: 2023-11-17
