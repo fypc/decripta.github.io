@@ -119,7 +119,8 @@ Impresionante en su incapacidad para ver nada más que sus propios deseos, que a
 
 **STEVE:**
 
-*"Debe saber, señor, que con esta gente, ¡no pensamos!
-no pensamos .... no pensamos"* (Jacques Brel)
+¿Cómo se puede pensar correctamente cuando se tiene semejante patetismo en la cabeza?
+
+*"He de decirle, Señor, que en casa de esa gente no se piensa, Señor, no se piensa ¡se reza!s"* ([Esa gente](https://www.youtube.com/watch?v=nI5sECWd0u8), Jacques Brel)
 
 Es más, eran sus colegas de la oficina de al lado los que también "pensaban" en el COVID.
