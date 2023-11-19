@@ -43,6 +43,10 @@ Cuando se han destruido los valores y el peso simbólico de la verdad, la lógic
 
 ---
 
+Israel se construyó sobre el terrorismo antes de 1948, y primeros ministros terroristas lo dirigieron después de 1948.
+
+---
+
 ### *Washington Report on Middle East Affairs*
 Septiembre de 2012, páginas 22-23
 # Yitzhak Shamir (1915-2012): No es el único terrorista elegido Primer Ministro de Israel
@@ -55,25 +59,31 @@ Lo más destacable de la vida de Yitzhak Shamir fue lo poco que cambió su forma
 
 Como joven betariano estuvo muy influido por su fundador, Vladimir Jabotinsky, fundador también del "sionismo de las armas" o, más eufemísticamente, del "sionismo revisionista".
 
-La visión de Jabotinsky, la misma que la del fundador del sionismo Theodor Herzl, era "una mayoría judía en un Estado judío en toda la Tierra bíblica de Israel". Jabotinsky, sin embargo, se dio cuenta de que esto tenía que lograrse por la fuerza, igual que los países europeos establecieron sus colonias por la fuerza. "Esto tenía sentido para mí", escribió Shamir comentando las ideas de Jabotinsky.
+La visión de Jabotinsky, la misma que la del fundador del sionismo Theodor Herzl, era "una mayoría judía en un Estado judío en toda la Tierra bíblica de Israel". Jabotinsky, sin embargo, se dio cuenta de que esto tenía que lograrse por la fuerza, igual que los países europeos establecieron sus colonias por la fuerza. *"Esto tenía sentido para mí"*, escribió Shamir comentando las ideas de Jabotinsky.
 
-En 1939 -cuatro años después de emigrar a la Palestina del Mandato Británico- Shamir conoció al chovinista Avraham Stern, jefe de la banda terrorista Stern. Según Stern, "los derechos sólo se conceden a los fuertes, que pueden tomarlos por la fuerza si no se les conceden legalmente".
+{{< highlight-red >}}
+En 1939 –cuatro años después de emigrar a la Palestina del Mandato Británico– Shamir conoció al chovinista Avraham Stern, jefe de la banda terrorista Stern. Según Stern, *"los derechos sólo se conceden a los fuertes, que pueden tomarlos por la fuerza si no se les conceden legalmente"*.
+{{< /highlight-red >}}
 
-El grupo declaró a Inglaterra enemiga e hizo gestiones ante la Alemania nazi para una alianza. "El establecimiento del Estado judío histórico sobre una base nacional y totalitaria, vinculado por un tratado con el Reich alemán" fue parte de la propuesta que un representante de Stern hizo en 1941 al ministro alemán en Beirut. Shamir omitió este episodio en su autobiografía.
+{{< highlight-red >}}
+**El grupo declaró a Inglaterra enemiga e hizo gestiones ante la Alemania nazi para una alianza.** "El establecimiento del Estado judío histórico sobre una base nacional y totalitaria, vinculado por un tratado con el Reich alemán" fue parte de la propuesta que un representante de Stern hizo en 1941 al ministro alemán en Beirut. Shamir omitió este episodio en su autobiografía.
+{{< /highlight-red >}}
 
+{{< highlight-red >}}
 El racismo del grupo era fuerte. Un miembro, Uri Greenberg, se refirió a los árabes como "la gente más sucia de Oriente". Tales comentarios eran habituales en la banda. Considerar a los árabes, incluso a todos los no judíos, como iguales no estaba en su pensamiento.
+{{< /highlight-red >}}
 
-Por eso Shamir no tuvo problemas en aprobar el asesinato en 1944 de Lord Moyne (amigo de Churchill). El Dr. Amitsur Ilan afirmó que Shamir fue el "principal impulsor" del asesinato.
+Por eso Shamir no tuvo problemas en aprobar el asesinato en 1944 de Lord Moyne (amigo de Churchill). El Dr. Amitsur Ilan afirmó que **Shamir fue el "principal impulsor" del asesinato**.
 
 Shamir también fue uno de los tres terroristas que volaron el Hotel Rey David en 1946, matando a 88 personas. Para evitar ser descubierto, se disfrazó de rabino, con "barba negra completa y caftán largo". Sin embargo, olvidó recortarse las cejas. Un detective callejero reconoció las cejas bajo el sombrero negro de fieltro de rabino y lo capturó. Shamir fue entonces encarcelado, escapando al cabo de dos años. Asesinó a su propio colega, Eliahu Giladi, a causa de un desacuerdo.
 
-Aún más memorables fueron las implicaciones de Shamir en el ataque al pequeño pueblo de Deir Yassin y el asesinato del mediador sueco de la ONU, el conde Folke Bernadotte, ambos en 1948. El ataque de Deir Yassin se produjo cinco semanas antes de que un solo ejército árabe se convirtiera en beligerante. El elevado número de ancianos, mujeres y niños asesinados indicaba el desenfreno racista. Entre los 280 muertos había 30 bebés. "Vi genitales cortados y estómagos aplastados de mujeres", informó el investigador Zvi Ankori. No hubo heridos.
+Aún más memorables fueron las implicaciones de Shamir en el ataque al pequeño pueblo de Deir Yassin y el asesinato del mediador sueco de la ONU, el conde Folke Bernadotte, ambos en 1948. El ataque de Deir Yassin se produjo cinco semanas antes de que un solo ejército árabe se convirtiera en beligerante. El elevado número de ancianos, mujeres y niños asesinados indicaba el desenfreno racista. Entre los 280 muertos había 30 bebés. *"Vi genitales cortados y estómagos aplastados de mujeres"*, informó el investigador Zvi Ankori. No hubo heridos.
 
 Aunque Bernadotte había salvado a unos 30.000 judíos de las cámaras de gas durante la Segunda Guerra Mundial, su "crimen" fue intentar que Transjordania quedara excluida de las reivindicaciones sionistas. Por ello fue asesinado.
 
 Tales hechos atrajeron la atención mundial hacia Shamir y su banda. Además de estas acciones, Shamir estimó que su grupo llevó a cabo otras 300 "acciones", participando él mismo en 41 de ellas.
 
-Tras la guerra, Shamir no sabía qué hacer. ¿Qué hacer? Se enteró de que el servicio secreto israelí Mossad necesitaba hombres con "habilidades especiales adquiridas por hombres antes 'buscados' como yo", escribió. "Aquello cambió mi vida". Explicó Shamir: "Muy pronto me sentí como en casa: Había vuelto a una atmósfera, un comportamiento, unos incentivos y unos puntos de vista que, en muchos sentidos, me eran familiares". Ahora todas sus actividades anteriores se realizaban con la aprobación del establishment.
+Tras la guerra, Shamir no sabía qué hacer. ¿Qué hacer? Se enteró de que el servicio secreto israelí Mossad necesitaba hombres con *"habilidades especiales adquiridas por hombres antes 'buscados' como yo"*, escribió. *"Aquello cambió mi vida"*. Explicó Shamir: *"Muy pronto me sentí como en casa: Había vuelto a una atmósfera, un comportamiento, unos incentivos y unos puntos de vista que, en muchos sentidos, me eran familiares"*. Ahora todas sus actividades anteriores se realizaban con la aprobación del establishment.
 
 Como jefe del Mossad, Shamir no sólo protegía a los ciudadanos israelíes, sino también a los "judíos en el extranjero". No sólo prometió dar "inolvidables lecciones objetivas sobre la realidad y el alcance del Estado judío", sino que se arrogó el derecho a interferir en los asuntos internos de cualquier otro Estado nación del mundo. Parece absurdo. Pero es una realidad incluso hoy en día. Testigo de ello son los recientes asesinatos de científicos iraníes respetuosos con la ley, considerados, sin juicio, por supuesto, enemigos de Israel.
 
@@ -93,7 +103,9 @@ Además, escribió el biógrafo de Reagan Richard Reeves, "Reagan y Shamir concl
 
 No es sorprendente que Shamir continuara con su actitud racista hacia los palestinos durante su mandato como primer ministro. Al comienzo de la primera intifada (levantamiento) en 1987 llamó a los palestinos "saltamontes". Cuando le preguntaron por ello, lo repitió en televisión: "Sí, saltamontes; hay que pisotearlos de vez en cuando".
 
-Tras jubilarse en 1992, disfrutó del estatus de consejero y anciano estadista. De los líderes posteriores, dijo: "He animado y preparado a casi todos ellos". Mencionó en particular a los futuros Primeros Ministros Ehud Olmert y Binyamin Netanyahu.
+{{< highlight-red >}}
+Tras jubilarse en 1992, disfrutó del estatus de consejero y anciano estadista. De los líderes posteriores, dijo: *"He animado y preparado a casi todos ellos"*. Mencionó en particular a los futuros Primeros Ministros Ehud Olmert y **Binyamin Netanyahu**.
+{{< /highlight-red >}}
 
 De hecho, a juzgar por las prácticas actuales de Israel y la creciente popularidad del "traslado", Yitzhak Shamir no sólo formó a los líderes posteriores, sino que convirtió las opiniones minoritarias de Avraham Stern de los años 40, incluidas las racistas, en las opiniones de una mayoría de israelíes de hoy.
 
