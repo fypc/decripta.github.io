@@ -6,7 +6,7 @@ date: 2023-11-18
 publishdate: 2023-11-18
 tags: ["geopolítica"]
 comments: false
-author: Michael Hudson
+author: Michael Hudson (prólogo de Bruno Bertez)
 author_profile: "Economista estadounidense, profesor de economía en la Universidad de Misuri en Kansas City e investigador en el Levy Economics Institute en el Bard College, exanalista de Wall Street, consultor político, comentarista y periodista. Contribuye al The Hudson Report un informe semanal económico y de noticias financieras producido por Left Out."
 traduction: automatico mejorado
 source_language: inglés
