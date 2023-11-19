@@ -367,6 +367,7 @@ h4.card-author {
 .card-img {
     filter: grayscale(0%);
     transition: filter 0.5s ease; /* Adding a transition for a smooth effect */
+
 }
 
 /* Remove grayscale filter on hover */
@@ -1199,4 +1200,10 @@ iframe {
     font-weight: 900;
     src: url(../fonts/PensumPro-ExtraBold.woff2) format("woff2");
     font-display: swap
+}
+
+.twitter-tweet-rendered {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
 }
