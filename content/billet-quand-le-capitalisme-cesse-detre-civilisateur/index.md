@@ -4,7 +4,7 @@ category: Post
 title: "Del capitalismo productivo civilizador al capitalismo financiero depredador"
 date: 2023-11-18
 publishdate: 2023-11-18
-tags: ["geopolítica", "bruno bertez"]
+tags: ["economía", "bruno bertez"]
 comments: false
 author: Bruno Bertez
 author_profile: "Propietario de prensa francesa especializada en información financiera. Como director de un grupo de prensa especializado en economía y finanzas, fundó el diario La Tribune. Escribe regularmente en el diario económico suizo L'Agefi. Es bloguero habitual en los sitios web de noticias Blog à Lupus, brunobertez.com, Atlantico y Lesobservateurs.ch."
