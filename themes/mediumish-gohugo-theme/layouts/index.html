@@ -12,7 +12,7 @@
                 <h2><span>Artículos</span></h2>                
             </div>             -->
             <div class="row listrecent">
-                {{ $post_paginator := .Paginate (where .Pages "Type" "blog") 6 }}
+                {{ $post_paginator := .Paginate (where .Pages "Type" "blog") 24 }}
                 {{ range $post_paginator.Pages }}
                     {{- partial "list-partials/postbox.html" . -}}
                 {{end}}
