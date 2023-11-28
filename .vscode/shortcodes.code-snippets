@@ -21,6 +21,18 @@
 	],
     "description": "hightlight-grey"
   },
+  "hightlight-color": {
+    "scope": "markdown",
+    "prefix": "hlc",
+    "body": [
+			"{{< highlight-color ${2|primary,secondary,success,info,warning,danger|}>}}",
+			"${TM_SELECTED_TEXT:`${1:content}`}",
+      "{{< /highlight-color >}}",
+      "",
+      "$0"
+	],
+    "description": "hightlight-grey"
+  },
   "notice": {
     "prefix": "notice",
     "body": [
