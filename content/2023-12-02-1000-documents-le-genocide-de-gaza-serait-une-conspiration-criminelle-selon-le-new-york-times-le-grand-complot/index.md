@@ -18,7 +18,7 @@ Se trata de la **Gran Estrategia**, no sólo de los altibajos de la carrera de N
 
 La prueba está en la publicación de los documentos que harán caer al líder israelí: The New York Times.
 
-No se trata de mezquindades políticas personales, a lo Haaretz, no, se trata de la gran política, la política de los servicios de inteligencia y la del Departamento de Estado de Estados Unidos: se tira a Netanyahu debajo del autobús para preservar los intereses esenciales estadounidenses a largo plazo. En otras palabras, ¡unipolaridad!
+No se trata de mezquindades políticas personales, a lo Haaretz, no, se trata de la gran política, la política de los servicios de inteligencia y la del Departamento de Estado de Estados Unidos: **se tira a Netanyahu debajo del autobús para preservar los intereses esenciales estadounidenses a largo plazo**. En otras palabras, ¡unipolaridad!
 
 Korybko da en el clavo y por eso, antes de leer el artículo sobre el complot de Netanyahu revelado por el NYT, les ofrezco la ilustrada opinión de Korybko.
 
@@ -37,7 +37,7 @@ Por supuesto vaya al grano, que no es el relato disfrazado de la conspiración, 
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc7854ab-ef72-41f4-ba99-7a1c8982c576_800x600.jpeg)
 
-**Todo lo que planean los estrategas estadounidenses se basa en la destitución de Bibi y en que su sustituto reanude inmediatamente las negociaciones sobre una solución de dos Estados, durante las cuales Estados Unidos aprovecharía su monopolio sobre ese proceso para aplicarlo finalmente a fin de impedir que Rusia lo haga.
+Todo lo que planean los estrategas estadounidenses se basa en la destitución de Bibi y en que su sustituto reanude inmediatamente las negociaciones sobre una solución de dos Estados, durante las cuales Estados Unidos aprovecharía su monopolio sobre ese proceso para aplicarlo finalmente a fin de impedir que Rusia lo haga.
 
 El New York Times (NYT) citó un documento secreto con el nombre en clave de "Muro de Jericó" para informar el jueves de que "[Israel conocía el plan de ataque de Hamás desde hace más de un año](https://archive.is/fWAoj)". Según sus conclusiones, el autoproclamado Estado judío conocía casi todos los detalles del ataque furtivo de Hamás con tanta antelación, aunque consideró erróneamente que el grupo carecía de la capacidad y la intención de llevarlo a cabo. Aunque no está claro si el Primer Ministro Benjamin "Bibi" Netanyahu fue informado de ello, podría caer por ello.
 
