@@ -2,60 +2,165 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2023-10-27T21:18:42-05:00</lastmod>
+    <loc>http://localhost:1313/decripta.github.io/</loc>
+    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/my-first-post/</loc>
-    <lastmod>2023-10-27T21:18:42-05:00</lastmod>
+    <loc>http://localhost:1313/decripta.github.io/tags/geopol%C3%ADtica/</loc>
+    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2023-10-27T21:18:42-05:00</lastmod>
+    <loc>http://localhost:1313/decripta.github.io/2024-07-05-1632-los-medios-del-regimen-dicen-lo-indecible/</loc>
+    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
+    <loc>http://localhost:1313/decripta.github.io/tags/</loc>
+    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/drink/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
+    <loc>http://localhost:1313/decripta.github.io/2023-12-02-0901-spiders-in-glass-jar-ze-desperately/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/interesting/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
+    <loc>http://localhost:1313/decripta.github.io/2023-12-02-1311-ayahuasca-and-the-simulacrum/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/ninth/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
+    <loc>http://localhost:1313/decripta.github.io/tags/bruno-bertez/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
+    <loc>http://localhost:1313/decripta.github.io/2023-12-02-1054-editorial-dette-democratie-la-fin-de-leconomie-goldielock-vers-un-nouveau-systeme/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/eighth/</loc>
-    <lastmod>2018-10-07T11:40:11+02:00</lastmod>
+    <loc>http://localhost:1313/decripta.github.io/tags/econom%C3%ADa/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/seventh/</loc>
-    <lastmod>2018-10-07T11:39:29+02:00</lastmod>
+    <loc>http://localhost:1313/decripta.github.io/2023-12-02-1000-documents-le-genocide-de-gaza-serait-une-conspiration-criminelle-selon-le-new-york-times-le-grand-complot/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/sixth/</loc>
-    <lastmod>2018-10-07T11:39:25+02:00</lastmod>
+    <loc>http://localhost:1313/decripta.github.io/2023-12-02-1017-lo-que-se-esconde-tras-las-mentiras-de-netanyahu-y-las-fintas-del-hamas/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/fifth/</loc>
-    <lastmod>2018-10-07T11:39:22+02:00</lastmod>
+    <loc>http://localhost:1313/decripta.github.io/2023-12-02-1108-un-mois-de-novembre-2023-hyperbolique-la-simulation-en-roue-libre/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/fourth/</loc>
-    <lastmod>2018-10-07T11:39:16+02:00</lastmod>
+    <loc>http://localhost:1313/decripta.github.io/2023-11-28-1018-les-etats-unis-et-le-royaume-uni-ont-bien-fait-pression-sur-lukraine-pour-quelle-rejette-laccord-de-paix-avec-la-russie/</loc>
+    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/third/</loc>
-    <lastmod>2018-10-07T11:39:13+02:00</lastmod>
+    <loc>http://localhost:1313/decripta.github.io/2023-11-28-1040-interview-with-david-arakhamia/</loc>
+    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/second/</loc>
-    <lastmod>2018-10-07T11:39:10+02:00</lastmod>
+    <loc>http://localhost:1313/decripta.github.io/2023-11-28-0952-mito-putin-conquistar-ucrania/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/first/my-first-post/</loc>
+    <loc>http://localhost:1313/decripta.github.io/tags/mearsheimer/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-11-19-1353-documento-terrorismo-modus-operandi/</loc>
+    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-11-18-1110-redefinicion-derrota/</loc>
+    <lastmod>2023-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-11-18-1644-billet-quand-le-capitalisme-cesse-detre-civilisateur/</loc>
+    <lastmod>2023-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-11-18-2001-nordstream-bombing-ukraine-chervinsky2/</loc>
+    <lastmod>2023-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-11-18-2001-nordstream-bombing-ukraine-chervinsky/</loc>
+    <lastmod>2023-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-11-18-1621-were-the-biblical-prophets-anti-semitic/</loc>
+    <lastmod>2023-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-11-17-1239-wjs-voltea/</loc>
+    <lastmod>2023-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-11-16-0051-why-does-us-support-israel/</loc>
+    <lastmod>2023-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/tags/finanzas/</loc>
+    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-11-15-1510-pretention-de-savoir/</loc>
+    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-11-5-0028-ukraine-negociations/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-11-4-2346-mearsheimer-napolitano/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-documento-completo-del-ministerio-de-inteligencia-la-transferencia/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-editorial-ce-quils-disent-et-ce-quils-ne-peuvent-surtout-pas-vous-dire-puisquils-sont-payes-pour-le-nier/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-editorial-important-la-taupe-de-la-dette-creuse-elle-mine-elle-sort-sa-tete-cest-soit-lausterite-soit-limplosion-ce-sera-limplosion/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-editorial-latout-americain-qui-permet-de-dominer-le-monde-la-connivence-bipartisane/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-israel-hamas-ukraine-russie-et-chine-john-mearsheimer-explique-pourquoi-les-etats-unis-sont-en-grave-difficulte/</loc>
+    <lastmod>2023-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-remarquable-a-lire-ce-texte-on-comprend-beaucoup-mieux-les-objectifs-et-les-paris-de-la-resistance-palestinienne/</loc>
+    <lastmod>2023-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-11-8-1910-occupation-pacifique-ca-n-existe-pas/</loc>
+    <lastmod>2023-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-11-5-1830-la-vraie-monnaie-du-systeme-vous-ne-la-connaissez-pas/</loc>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-editorial-le-marche-de-la-verite-existe-mais-il-est-etroit/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-test/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-le-dollar-bras-arme-des-etats-unis-tombera-tout-seul-pas-besoin-damputation/</loc>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-editorial-a-lavenir-les-peuples-nauront-plus-a-se-prononcer-que-sur-la-couleur-des-cages-descalier/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-propaganda-restricts-speech-more/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/tags/sociedad/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-potential-growth-book/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-how-the-ussrs-fall-unleashed-a-neocon/</loc>
+    <lastmod>2023-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-faute-a-la-finance/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-financiarisation-est-nefaste-par-pour-raisons-croit/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-pourquoi-guerres-restaurent-profitabilite/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-henry-grossman/</loc>
     <lastmod>2018-10-07T11:17:14+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/static/imprint/</loc>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-la-financiarisation-ne-tombe-pas-du-ciel/</loc>
+    <lastmod>2018-10-07T11:17:14+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-28-0046-a-profitabilite-du-capital-le-parametre-clef-de-notre-epoque/</loc>
+    <lastmod>2018-10-07T11:17:14+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-27-2133-productivite-profitabilite-du-capital-un-papier-pour-enfin-comprendre/</loc>
+    <lastmod>2018-10-07T11:17:14+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-27-2128-static/</loc>
     <lastmod>2018-10-07T11:12:00+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/static/</loc>
+    <loc>http://localhost:1313/decripta.github.io/2023-10-27-2128-static/imprint/</loc>
     <lastmod>2018-10-07T11:12:00+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>http://localhost:1313/decripta.github.io/categories/</loc>
   </url>
 </urlset>
