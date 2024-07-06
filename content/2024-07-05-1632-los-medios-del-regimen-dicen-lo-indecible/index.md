@@ -15,6 +15,7 @@ source_link: https://simplicius76.substack.com/p/regime-media-utters-the-un-utte
 ---
 
 ## Prólogo de Bruno Bertez
+[Fuente en francés](https://brunobertez.com/2024/07/05/editorial-la-crise-biden-sert-de-revelateur-la-soi-disant-democratie-americaine-ce-nest-quun-regime-doligarques-en-france-aussi/)
 
 Ya conocen mi marco analítico: no pongo muchas esperanzas en el voluntarismo político.
 
@@ -30,7 +31,7 @@ El que da la apariencia de ganar es el que mejor navega, o bien es el más cíni
 
 Para ello, se contradicen, reniegan de sí mismos, hacen piruetas, giros de 180 grados -en resumen, hacen el ridículo-, pero la gente no lo ve, o casi no lo ve, porque también ellos son arrastrados por las olas, zarandeados.
 
-Sin un punto de apoyo.
+Sin punto de anclaje.
 
 Eliminada la referencia a la verdad, a lo objetivo, a la realidad, todo el mundo está a la deriva, en el manicomio, un manicomio donde los psiquiatras están tan locos como los pacientes; todo el mundo vive en lo imaginario. Están en la botella, esta botella en el gran mar del Sistema, a la deriva sin que nadie lleve el timón, porque no hay timón.
 
@@ -40,7 +41,7 @@ Esto es exactamente lo que está ocurriendo en Francia y en Estados Unidos, y ac
 
 Ante la escasez de beneficios, la sobreproducción y, sobre todo, la colosal acumulación de deudas en el sistema, quien sea derrotado en la lucha pagará la factura.
 
-Esto es lo que está en juego en todo Occidente: ¿quién va a pagar las deudas, vamos a conseguir, como en 2008, que las pague el pueblo, los trabajadores, vamos a poder imponerles de nuevo la austeridad para pagar las deudas y los gastos militares? ¿Seremos capaces de imponer austeridad una vez más para pagar las deudas y el gasto militar? ¿Seremos capaces de imponer austeridad una vez más para pagar las deudas y el gasto militar? ¿Y quién se llevará el botín? ¿Qué sector del capitalismo? ¿Los modernos, los viejos, los monopolios, los rentistas?
+Esto es lo que está en juego en todo Occidente: ¿quién va a pagar las deudas, vamos a conseguir, como en 2008, que las pague el pueblo, los trabajadores, vamos a poder imponerles de nuevo la austeridad para pagar las deudas y los gastos militares? ¿Vamos a asistir a una repetición de la austeridad, a una caída del poder adquisitivo y a una disminución de las ventajas conquistadas?  ¿Y quién se llevará el botín? ¿Qué sector del capitalismo? ¿Los modernos, los viejos, los monopolios, los rentistas?
 
 Las burguesías no son homogéneas ni monolíticas, y cuando el botín escasea se enfrentan. De hecho, desde que la modernidad, la tecnología y las ciencias humanas han arrebatado la democracia de las manos del pueblo, las batallas políticas han sido precisamente eso: un reflejo de las batallas de la burguesía contra la burguesía, de las batallas de los tiburones contra los tiburones.
 
@@ -48,7 +49,7 @@ Las burguesías están unidas contra el pueblo, pero se desgarran mutuamente has
 
 La historia está de nuevo en movimiento.
 
-Las fuerzas que producen nuestros cambios han tomado forma concreta, y se hacen visibles por el dinero, por el dosh; es una fantástica confrontación del dosh la que está en marcha en el mundo occidental.
+Las fuerzas que producen nuestros cambios han tomado forma concreta, y se hacen visibles por el dinero, por la plata; es una fantástica confrontación por la plata la que está en marcha en el mundo occidental.
 
 Algún día volveré sobre estas cuestiones fundamentales.
 
